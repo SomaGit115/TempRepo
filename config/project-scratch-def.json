@@ -1,0 +1,7 @@
+{
+  "orgName": "Demo company",
+  "edition": "Enterprise",
+  "adminEmail": "soma@mandal.com",
+  "username": "soma@mandalScratch.com.001",
+  "features": ["ContactsToMultipleAccounts", "StateAndCountryPicklist","FinancialServicesUser:2","DevelopmentWave","PersonAccounts"]
+}
